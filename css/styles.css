@@ -1,0 +1,137 @@
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+}
+
+nav.menu-nav ul li.btn a{
+	color: white ;
+	background-color: black;
+	text-decoration: none;
+	padding: 20px;
+}
+
+nav.menu-nav ul li.btn:hover a{
+	color: white;
+	background-color: grey;
+	transition: 500ms all;
+}
+
+p.welcome{
+	color: #182094;
+	font-size: 50px;
+	position: relative;
+	left: 100px
+
+}
+
+body{
+	background: url("https://geo.img.pmdstatic.net/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Fgeo.2F2021.2F11.2F17.2F0adbc2ae-37e1-42cd-9f79-49eb857e232d.2Ejpeg/1280x720/background-color/ffffff/quality/70/tout-ce-quil-faut-savoir-sur-le-saumon.jpg") no-repeat;
+	background-size:100%;
+
+}
+
+h1.headline{
+	font-size: 100px;
+	font-weight:bold;
+	padding-left:225px;
+}
+a.button{
+	color: white;
+	background-color: #182094;
+	text-decoration: none;
+	padding: 25px;
+	position: relative;
+	left: 65px;
+	top: 150px;
+	font-size: 30px;
+}
+a.button:hover{
+	color : #182094;
+	background-color: white;
+	transition: 500ms all;
+}
+img.logo{
+	position: relative;
+	left: 1350px;
+	top: 50px;
+}
+img.saumon{
+	position: relative;
+	top: 60px
+}
+
+p.join{
+	color: #182094;
+	font-size: 70px;
+	position: relative;
+	left: 300px;
+	top: 10px;
+}
+p.fleche{
+	color: #182094;
+	font-size: 85px;
+	position: relative;
+	left: 930px;
+	top: 30px;
+}
+a.discordbtn{
+	color: white;
+	background-color: #182094;
+	text-decoration: none;
+	padding: 80px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	position: relative;
+	left: 685px;
+	top: 150px;
+	font-size: 50px;
+}
+h1.qui{
+	font-size: 75px;
+	font-weight:bold;
+	padding-left:600px;
+}
+
+p.description{
+	font-size: 40px;
+	padding-left: 200px ;
+	padding-right: 200px;
+	color: #182094;
+
+}
+
+h1.contact{
+	font-size: 75px;
+	font-weight:bold;
+	padding-left:700px;
+}
+p.contacter{
+	font-size: 40px;
+	padding-left: 200px ;
+	padding-right: 200px;
+	color: #182094;
+}
+
+p.discord{
+	font-size: 40px;
+	font-weight: bold;
+	padding-left: 200px ;
+	padding-right: 200px;
+	color: #182094;
+}
+
+p.adresse{
+	font-size: 40px;
+	padding-left: 200px ;
+	padding-right: 200px;
+	color: #182094;
+}
+
+p.mail{
+	font-size: 40px;
+	font-weight: bold;
+	padding-left: 200px ;
+	padding-right: 200px;
+	color: #182094;
+}
